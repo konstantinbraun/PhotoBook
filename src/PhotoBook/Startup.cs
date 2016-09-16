@@ -10,6 +10,9 @@ using Microsoft.Extensions.Logging;
 
 namespace PhotoBook
 {
+    /// <summary>
+    /// Add comments
+    /// </summary>
     public class Startup
     {
         public Startup(IHostingEnvironment env)
